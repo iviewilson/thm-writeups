@@ -131,7 +131,7 @@ In the hands-on lab, I played the role of a Junior SOC Analyst investigating a l
 
 ## 📌 About the Author
 
-**Ivie Wilson** — Cybersecurity Analyst in Training | IT Support Specialist | Frontend Developer  
+**Ivie Wilson** — Cybersecurity Analyst| IT Support Specialist | Frontend Developer  
 📍 Lagos, Nigeria · Available for Remote Roles  
 🔗 [iviewilson.com](https://iviewilson.com) | [GitHub](https://github.com/iviewilson) | [LinkedIn](https://linkedin.com/in/iviewilson)
 
